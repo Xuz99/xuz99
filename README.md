@@ -23,3 +23,5 @@ Wordpress, PHP, Larvel, React, and Javascript.
 ## &#x1f4c8; My GitHub Stats
 
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuz99&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuz99&css&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+> Many thanks to [Catalin Pit](https://github.com/catalinpit) for writeing such a good article on how to make this cool [README.md](https://dev.to/codeloungedev/how-to-create-a-kickass-github-profile-page-408a7)
