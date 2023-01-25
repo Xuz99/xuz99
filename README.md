@@ -4,13 +4,12 @@
 ### I am a developer/designer in learning, and learning all the time. I love to work on projects that aim to solve problems and make life easier.
 
 
-⤷ I am a developer/designer in learning, and learning all the time. I love to work on projects that aim to solve problems and make life easier.
 
  <a aligh="left" href="https://https://johndavidson.dev/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:contact@johndavidson.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>  
 
 ⚐ Based in Edinburgh
 
-ϟ Currently Building stuff with .NET
+ϟ Currently building stuff with .NET
 
 
 
