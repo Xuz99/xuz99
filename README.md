@@ -1,6 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" width="30px"> my name is John Davidson!
 
-# John Davidson
 ### I am a developer/designer in learning, and learning all the time. I love to work on projects that aim to solve problems and make life easier.
 
 
